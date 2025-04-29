@@ -88,8 +88,15 @@ Video of Demo - TBD
 ### Introduction
 
 - Game background
-  - The game depicts conflicts and technological changes driven by rising sea levels. In the early 22nd century, climate change caused a dramatic rise in sea levels, submerging most land. Humanity survives on floating cities, sea bases, and artificial highlands, but resource scarcity and environmental decline fuel tensions. Major factions battle for islands, ruins, and ocean resources, while corruption, pirates, and mercenary groups threaten the survivors. 
-  - The protagonist, a vengeful exile, lost their home to these upheavals. Navigating between floating cities and ruins, they face pirates, corrupt forces, deep-sea monsters, sudden superstorms, and mysterious ocean anomalies.
+ -A magical catastrophe shattered the world, leaving only floating islands adrift in the sky. Ancient civilizations collapsed, and wild arcane energy now flows through broken landscapes filled with danger, mystery, and forgotten magic.
+ -You are a magical creature—an exiled, sentient dog cast out by its own kind. Armed with instinct and arcane power, you must navigate through frozen glaciers, haunted castles, cursed jungles, and twisted forests suspended in the sky. Each realm pulses with unstable magic, hiding secrets—and death—at every turn.
+ -Watch your step. Triangular spikes jut from the ground and sky. Red magical orbs float motionless, deadly on contact. Enchanted cactus-like plants fire projectiles without warning, and razor-sharp thorn clusters in the forest are fatal to the touch. There are no second chances.
+ -Your journey leads to **Death Cliff**—the last known fragment of the World Core. Only by surviving the trials of magic and reclaiming your lost power can you unlock the secret to restoring the world.
+
+**Survive the skies. Master the magic. Reconnect the realms.**
+
+---
+
 
 - Game  mechanics
   - This game features a highly replayable roguelike core loop, where each playthrough presents unique strategic choices. Key mechanics include procedurally generated levels, diverse weapon and skill combinations, progressively increasing difficulty, and a reward and penalty system, ensuring fresh challenges and opportunities in every run.
